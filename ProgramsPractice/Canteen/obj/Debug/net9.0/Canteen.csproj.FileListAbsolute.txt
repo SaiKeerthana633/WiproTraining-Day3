@@ -1,0 +1,14 @@
+C:\Wipro\wiproTraining\ProgramsPractice\Canteen\obj\Debug\net9.0\Canteen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro\wiproTraining\ProgramsPractice\Canteen\obj\Debug\net9.0\Canteen.AssemblyInfoInputs.cache
+C:\Wipro\wiproTraining\ProgramsPractice\Canteen\obj\Debug\net9.0\Canteen.AssemblyInfo.cs
+C:\Wipro\wiproTraining\ProgramsPractice\Canteen\obj\Debug\net9.0\Canteen.csproj.CoreCompileInputs.cache
+C:\Wipro\wiproTraining\ProgramsPractice\Canteen\bin\Debug\net9.0\Canteen.exe
+C:\Wipro\wiproTraining\ProgramsPractice\Canteen\bin\Debug\net9.0\Canteen.deps.json
+C:\Wipro\wiproTraining\ProgramsPractice\Canteen\bin\Debug\net9.0\Canteen.runtimeconfig.json
+C:\Wipro\wiproTraining\ProgramsPractice\Canteen\bin\Debug\net9.0\Canteen.dll
+C:\Wipro\wiproTraining\ProgramsPractice\Canteen\bin\Debug\net9.0\Canteen.pdb
+C:\Wipro\wiproTraining\ProgramsPractice\Canteen\obj\Debug\net9.0\Canteen.dll
+C:\Wipro\wiproTraining\ProgramsPractice\Canteen\obj\Debug\net9.0\refint\Canteen.dll
+C:\Wipro\wiproTraining\ProgramsPractice\Canteen\obj\Debug\net9.0\Canteen.pdb
+C:\Wipro\wiproTraining\ProgramsPractice\Canteen\obj\Debug\net9.0\Canteen.genruntimeconfig.cache
+C:\Wipro\wiproTraining\ProgramsPractice\Canteen\obj\Debug\net9.0\ref\Canteen.dll

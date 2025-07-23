@@ -1,0 +1,14 @@
+C:\Wipro\wiproTraining\Day3\JaggedArray\obj\Debug\net9.0\JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro\wiproTraining\Day3\JaggedArray\obj\Debug\net9.0\JaggedArray.AssemblyInfoInputs.cache
+C:\Wipro\wiproTraining\Day3\JaggedArray\obj\Debug\net9.0\JaggedArray.AssemblyInfo.cs
+C:\Wipro\wiproTraining\Day3\JaggedArray\obj\Debug\net9.0\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Wipro\wiproTraining\Day3\JaggedArray\bin\Debug\net9.0\JaggedArray.exe
+C:\Wipro\wiproTraining\Day3\JaggedArray\bin\Debug\net9.0\JaggedArray.deps.json
+C:\Wipro\wiproTraining\Day3\JaggedArray\bin\Debug\net9.0\JaggedArray.runtimeconfig.json
+C:\Wipro\wiproTraining\Day3\JaggedArray\bin\Debug\net9.0\JaggedArray.dll
+C:\Wipro\wiproTraining\Day3\JaggedArray\bin\Debug\net9.0\JaggedArray.pdb
+C:\Wipro\wiproTraining\Day3\JaggedArray\obj\Debug\net9.0\JaggedArray.dll
+C:\Wipro\wiproTraining\Day3\JaggedArray\obj\Debug\net9.0\refint\JaggedArray.dll
+C:\Wipro\wiproTraining\Day3\JaggedArray\obj\Debug\net9.0\JaggedArray.pdb
+C:\Wipro\wiproTraining\Day3\JaggedArray\obj\Debug\net9.0\JaggedArray.genruntimeconfig.cache
+C:\Wipro\wiproTraining\Day3\JaggedArray\obj\Debug\net9.0\ref\JaggedArray.dll

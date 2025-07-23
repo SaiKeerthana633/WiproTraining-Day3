@@ -1,0 +1,14 @@
+C:\Wipro\wiproTraining\ProgramsPractice\PrimeNumber\bin\Debug\net9.0\PrimeNumber.exe
+C:\Wipro\wiproTraining\ProgramsPractice\PrimeNumber\bin\Debug\net9.0\PrimeNumber.deps.json
+C:\Wipro\wiproTraining\ProgramsPractice\PrimeNumber\bin\Debug\net9.0\PrimeNumber.runtimeconfig.json
+C:\Wipro\wiproTraining\ProgramsPractice\PrimeNumber\bin\Debug\net9.0\PrimeNumber.dll
+C:\Wipro\wiproTraining\ProgramsPractice\PrimeNumber\bin\Debug\net9.0\PrimeNumber.pdb
+C:\Wipro\wiproTraining\ProgramsPractice\PrimeNumber\obj\Debug\net9.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro\wiproTraining\ProgramsPractice\PrimeNumber\obj\Debug\net9.0\PrimeNumber.AssemblyInfoInputs.cache
+C:\Wipro\wiproTraining\ProgramsPractice\PrimeNumber\obj\Debug\net9.0\PrimeNumber.AssemblyInfo.cs
+C:\Wipro\wiproTraining\ProgramsPractice\PrimeNumber\obj\Debug\net9.0\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Wipro\wiproTraining\ProgramsPractice\PrimeNumber\obj\Debug\net9.0\PrimeNumber.dll
+C:\Wipro\wiproTraining\ProgramsPractice\PrimeNumber\obj\Debug\net9.0\refint\PrimeNumber.dll
+C:\Wipro\wiproTraining\ProgramsPractice\PrimeNumber\obj\Debug\net9.0\PrimeNumber.pdb
+C:\Wipro\wiproTraining\ProgramsPractice\PrimeNumber\obj\Debug\net9.0\PrimeNumber.genruntimeconfig.cache
+C:\Wipro\wiproTraining\ProgramsPractice\PrimeNumber\obj\Debug\net9.0\ref\PrimeNumber.dll

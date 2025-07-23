@@ -1,0 +1,14 @@
+C:\Wipro\wiproTraining\Day3\OneDArray\bin\Debug\net9.0\OneDArray.exe
+C:\Wipro\wiproTraining\Day3\OneDArray\bin\Debug\net9.0\OneDArray.deps.json
+C:\Wipro\wiproTraining\Day3\OneDArray\bin\Debug\net9.0\OneDArray.runtimeconfig.json
+C:\Wipro\wiproTraining\Day3\OneDArray\bin\Debug\net9.0\OneDArray.dll
+C:\Wipro\wiproTraining\Day3\OneDArray\bin\Debug\net9.0\OneDArray.pdb
+C:\Wipro\wiproTraining\Day3\OneDArray\obj\Debug\net9.0\OneDArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro\wiproTraining\Day3\OneDArray\obj\Debug\net9.0\OneDArray.AssemblyInfoInputs.cache
+C:\Wipro\wiproTraining\Day3\OneDArray\obj\Debug\net9.0\OneDArray.AssemblyInfo.cs
+C:\Wipro\wiproTraining\Day3\OneDArray\obj\Debug\net9.0\OneDArray.csproj.CoreCompileInputs.cache
+C:\Wipro\wiproTraining\Day3\OneDArray\obj\Debug\net9.0\OneDArray.dll
+C:\Wipro\wiproTraining\Day3\OneDArray\obj\Debug\net9.0\refint\OneDArray.dll
+C:\Wipro\wiproTraining\Day3\OneDArray\obj\Debug\net9.0\OneDArray.pdb
+C:\Wipro\wiproTraining\Day3\OneDArray\obj\Debug\net9.0\OneDArray.genruntimeconfig.cache
+C:\Wipro\wiproTraining\Day3\OneDArray\obj\Debug\net9.0\ref\OneDArray.dll

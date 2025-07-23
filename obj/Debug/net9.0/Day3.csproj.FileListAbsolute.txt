@@ -1,0 +1,4 @@
+C:\Wipro\wiproTraining\Day3\obj\Debug\net9.0\Day3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro\wiproTraining\Day3\obj\Debug\net9.0\Day3.AssemblyInfoInputs.cache
+C:\Wipro\wiproTraining\Day3\obj\Debug\net9.0\Day3.AssemblyInfo.cs
+C:\Wipro\wiproTraining\Day3\obj\Debug\net9.0\Day3.csproj.CoreCompileInputs.cache

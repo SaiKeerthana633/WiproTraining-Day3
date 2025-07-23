@@ -1,0 +1,14 @@
+C:\Wipro\wiproTraining\Day3\StudentArrayDetails\obj\Debug\net9.0\StudentArrayDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro\wiproTraining\Day3\StudentArrayDetails\obj\Debug\net9.0\StudentArrayDetails.AssemblyInfoInputs.cache
+C:\Wipro\wiproTraining\Day3\StudentArrayDetails\obj\Debug\net9.0\StudentArrayDetails.AssemblyInfo.cs
+C:\Wipro\wiproTraining\Day3\StudentArrayDetails\obj\Debug\net9.0\StudentArrayDetails.csproj.CoreCompileInputs.cache
+C:\Wipro\wiproTraining\Day3\StudentArrayDetails\bin\Debug\net9.0\StudentArrayDetails.exe
+C:\Wipro\wiproTraining\Day3\StudentArrayDetails\bin\Debug\net9.0\StudentArrayDetails.deps.json
+C:\Wipro\wiproTraining\Day3\StudentArrayDetails\bin\Debug\net9.0\StudentArrayDetails.runtimeconfig.json
+C:\Wipro\wiproTraining\Day3\StudentArrayDetails\bin\Debug\net9.0\StudentArrayDetails.dll
+C:\Wipro\wiproTraining\Day3\StudentArrayDetails\bin\Debug\net9.0\StudentArrayDetails.pdb
+C:\Wipro\wiproTraining\Day3\StudentArrayDetails\obj\Debug\net9.0\StudentArrayDetails.dll
+C:\Wipro\wiproTraining\Day3\StudentArrayDetails\obj\Debug\net9.0\refint\StudentArrayDetails.dll
+C:\Wipro\wiproTraining\Day3\StudentArrayDetails\obj\Debug\net9.0\StudentArrayDetails.pdb
+C:\Wipro\wiproTraining\Day3\StudentArrayDetails\obj\Debug\net9.0\StudentArrayDetails.genruntimeconfig.cache
+C:\Wipro\wiproTraining\Day3\StudentArrayDetails\obj\Debug\net9.0\ref\StudentArrayDetails.dll

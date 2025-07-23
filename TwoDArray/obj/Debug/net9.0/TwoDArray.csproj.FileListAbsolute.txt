@@ -1,0 +1,14 @@
+C:\Wipro\wiproTraining\Day3\TwoDArray\obj\Debug\net9.0\TwoDArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro\wiproTraining\Day3\TwoDArray\obj\Debug\net9.0\TwoDArray.AssemblyInfoInputs.cache
+C:\Wipro\wiproTraining\Day3\TwoDArray\obj\Debug\net9.0\TwoDArray.AssemblyInfo.cs
+C:\Wipro\wiproTraining\Day3\TwoDArray\obj\Debug\net9.0\TwoDArray.csproj.CoreCompileInputs.cache
+C:\Wipro\wiproTraining\Day3\TwoDArray\bin\Debug\net9.0\TwoDArray.exe
+C:\Wipro\wiproTraining\Day3\TwoDArray\bin\Debug\net9.0\TwoDArray.deps.json
+C:\Wipro\wiproTraining\Day3\TwoDArray\bin\Debug\net9.0\TwoDArray.runtimeconfig.json
+C:\Wipro\wiproTraining\Day3\TwoDArray\bin\Debug\net9.0\TwoDArray.dll
+C:\Wipro\wiproTraining\Day3\TwoDArray\bin\Debug\net9.0\TwoDArray.pdb
+C:\Wipro\wiproTraining\Day3\TwoDArray\obj\Debug\net9.0\TwoDArray.dll
+C:\Wipro\wiproTraining\Day3\TwoDArray\obj\Debug\net9.0\refint\TwoDArray.dll
+C:\Wipro\wiproTraining\Day3\TwoDArray\obj\Debug\net9.0\TwoDArray.pdb
+C:\Wipro\wiproTraining\Day3\TwoDArray\obj\Debug\net9.0\TwoDArray.genruntimeconfig.cache
+C:\Wipro\wiproTraining\Day3\TwoDArray\obj\Debug\net9.0\ref\TwoDArray.dll
