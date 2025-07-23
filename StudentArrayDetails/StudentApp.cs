@@ -10,9 +10,9 @@ class StudentApp
         {
             students[i] = new Student();
             Console.WriteLine("Enter a Name:");
-            students[i].Naame = Console.ReadLine();
+            students[i].Name = Console.ReadLine();
             Console.WriteLine("Enter a Age:");
-            students[i].Agee = Convert.ToInt32(Console.ReadLine());
+            students[i].Age = Convert.ToInt32(Console.ReadLine());
             int subcount = Convert.TOInt32(Console.ReadLine());
             students[i].StuMarks = new Student[subcount];
             foreach (Student n in students)
@@ -26,8 +26,8 @@ class StudentApp
         foreach (Student s in students)
         //     for (int i = 0; i < noofStudent; i++)
         {
-            Console.WriteLine("Name:" + s.Naame);
-            Console.WriteLine("Age:" + s.Agee);
+            Console.WriteLine("Name:" + s.Name);
+            Console.WriteLine("Age:" + s.Age);
             foreach (int v in s.n)
             { 
                 Console.WriteLine("Enter the Marks" + v);
