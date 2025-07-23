@@ -2,8 +2,8 @@
 namespace StudentP;
 class Student
 {
-    public string Naame { get; set; }
-    public int Agee { get; set; }
+    public string Name { get; set; }
+    public int Age { get; set; }
     public int[] StuMarks { get; set; }
 
 }
